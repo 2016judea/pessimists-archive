@@ -1,0 +1,5 @@
+# Suez Canal
+
+
+## CLIP https://www.newspapers.com/clip/74413616/the-morning-post/ | The Morning Post | Thu, Dec 22, 1859 · Page 6 | concern: Areas/Dispute
+M FREDERIC BE CONINCKS LAST ' PAMPHLET on the SUEZ CANAL. We have already given in the columns of this journal in part the results, in part the detailed calculations, of M. Frederic de Coninck's last pamphlet on the Isthmus of Suez Canal. The statements which we hire already reproduced referred, however, to the comparative length and cost of the voyage when undertaken from the Lizard Point to the Straits of Sunda, according as it should be made by the Cape of Good Hope or by the Suez Canal. M. Frederic de Coninck, however, writing with a view principally to the shipping and commercial interests of France, does not confine his calculations to voyages commencing from the Lizard Point, as was naturally done by the Dutch commission, which of course chiefly looked to the maritime commerce of Holland and of all the North of Europe. He presents us likewise with the calculation as to the special

@@ -1,0 +1,5 @@
+# Poem/Text
+
+
+## CLIP https://www.newspapers.com/clip/32720957/the-indianapolis-star/ | The Indianapolis Star | Wed, Jan 07, 1914 · Page  7 | concern: People are too lazy
+to naturally and hardly nature and ordered, Attorney by a an from administration bring the of reason party he for Life of Ma THIS LAZY AGE. This ago we're In is a lazy age, In which things come too easy. The path of life slopes steeply down- Its wayH are nice and grcaÂ«y. Inventors have so busy been Devising their devices That we may live In pomp and Bin At fairly decent prices. Our fathers lugged big backlogs in And took no umbrage at It. Now we fitlr up an awful din With many a "DUrn" and "Drat It" If In our sumptuous hotel room With telephone and bath The steam heat.doean't warm the gloom- So smooth hag gr.own our path! Our fathers used to hike a mile To help each other thrush; For which they got a grudging smile And not a smell of cash. Our fathers also took a hike When they'd confer with neighbors-We simply motor, phone or bike And spare our legs such labors. Wise ginks have profite

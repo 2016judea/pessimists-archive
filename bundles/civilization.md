@@ -1,0 +1,5 @@
+# Civilization
+
+
+## CLIP https://www.newspapers.com/clip/64678350/gospel-herald/ | Gospel Herald | Thu, Jun 06, 1850 · Page 8 | concern: Mental state/independence
+DISADVANTAGES OF CIVILIZATION'.' Tlie civilized man" has built a coach lAit I H has lost the use ofhis feet. He is supported by crutchesrbut loses so much support of -muscle. He has got a line Geneva watch, but has lost the skill to tell the hour;. by the sun. - A v ik Greenwich nautical almanac helu as, and so being stire of the information" w lielv he vaiit's it, the man in the street does not know a star in the sky. The solstice he doss not observe; the equi noxdicknmvsaxl ittio ajTd-t ! te-bright calendar oFtherycar is without a dia5 in hie mind, Ilis note books imj ai r-his--memory-y his libraries "bverload'Miis' wit ; the insurance office increases the number of ''accidents;' and it may he a question whether wcNjiave not lost by refinement some energy ; by a Christianity entrenched in establishments and forms, some vigor of wild virtue. For every stoic was a , stoic ; but inChriste

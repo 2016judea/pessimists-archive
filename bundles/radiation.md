@@ -1,0 +1,5 @@
+# Radiation
+
+
+## CLIP https://www.newspapers.com/clip/36773089/the-centralia-enterprise-and-tribune/ | The Centralia Enterprise and Tribune | Sat, Apr 25, 1891 · Page  10 | concern: Birds
+Radio Waves Seem To Affect Homing Pigeons Washington, Jan. 20—(UP)—The Army Signal Corps discloses it is trying to find out why radio waves seem to upsot a homing pigeon's sense of direction. That pigeons are affected by radio waves has long been suspected. Three separate Signal Corps tests with different groups 'of pigeons produced effects confirming the suspecion. Each group consisted of 30 birds, and cnclj wns subdivided into two groups of flvo. 77.0 tests were held at a radio station 10 miles from their home lofts. The first wave of five birds was released in each test when the! station was transmitting; the sec- oncl wave, 1!5 minutes later when the station was silent. The birds released during transmissions socmect completely be- wjldorod. They circled erratically for 15 or 20 minutes near the station fine] fin;i!ly took off uncertainly for their lofts, taking &lt;I2 to 52 minutes,

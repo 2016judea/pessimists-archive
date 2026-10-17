@@ -1,0 +1,5 @@
+# Inventions
+
+
+## CLIP https://www.newspapers.com/clip/77123122/the-intelligencer/ | The Intelligencer | Thu, Sep 18, 1884 · Page  1 | concern: Positive development of inventions
+joy Inventions of Half a Century. The number of inventions that have been made during the past fifty years is unprecedented in the history of the world. Inventions of benefit to the hu? man race have been made in all ages since man was created, but looking back for half a hundred years, how many more are crowded into the past fifty than iuto any other fifty since recorded in history. The perfection of the locomotive, and the now world-traversing steamships, the telegraph, the telephone, the audipbone, the sewiug machine, the photograph, the cylinder printing pres3, chromo lithograph printing, the elevator for hotels aud other many storied buildings, the cotton gin and thespinni?g jenoey, the reaper, the mower, the steam thresher, the steam fire engine, the improved process for making steel, the application of ether and chlo? roform to destroy sensibility in painful surgery cases, and so 

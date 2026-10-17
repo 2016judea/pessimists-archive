@@ -1,0 +1,16 @@
+# Waltz/Dancing
+
+- CARD 5f53dd0e73b15d89882e8831 | Demoralizing Dances | 
+- CARD 5f53dd0e73b15d89882e882f | Another account of the duel | Newspapers.com Search https://www.newspapers.com/search/#query=duel+waltz&dr_year=1812-1812 
+- CARD 5f53dd0e73b15d89882e882d | 1812: THE DUEL (Globe - Friday 24 July 1812) | BNA search: https://www.britishnewspaperarchive.co.uk/search/results/1812-01-01/1813-12-31?basicsearch=waltz%20duel&somesearch=waltz%20duel&exactsearch=true&retrievecountrycounts=false&sortorder=score
+- CARD 5f53dd0e73b15d89882e89d1 | 1881: A Telegraphic Cataclysm | Global telegraphy could screw with earths currents and disorder the universe.
+- CARD 5f53dd0e73b15d89882e892b | 1882: Whistle Blower | 
+- CARD 5f53dd0e73b15d89882e8829 | 1888: Concerns about demoralizing dance at inaugural presidential ball. (President elect William Henry Harrison shouldn't dance like Washington) | 
+- CARD 5f53dd0e73b15d89882e882b | 1910: Dancing Marathon | https://www.newspapers.com/image/457452578/?terms=demoralizing%2Bdances
+- CARD 5f53dd0e73b15d89882e8809 | 1925: Demoralising Dances. NEWFANGLED frivolities. CORRUPTION AND SCANDAL OF WORST TYPE. Mont Re*. I)*. Roman bcrt-y, . | 
+
+## CLIP https://www.newspapers.com/clip/78661902/elko-independent/ | Elko Independent | Mon, May 03, 1915 · Page 1 | concern: Anti-dancing (corrupting youth)
+DANCES CORRUPTING YOUTH OF THE LAND Misinterpretation of modern dances by young society women is corrupting the youth of the land, according to G. E. Johnson, of the department of play and recreation of the New York school of philanthropy, who spoke before the Society of Physical Education and Hygiene at the University of Chicago. "The dance problem is now a boy's problem as well as a girl's problem. It holds a greater danger for this country, if not handled properly, than it has ever held for any country in the history of the world. "I do not think the cure of this dance or another will help it any. Our girls would never dance the way they do If they possessed this knowledge". O
+
+## CLIP https://www.newspapers.com/clip/76710190/the-standard-union/ | The Standard Union | Sun, Aug 21, 1921 · Page 11 | concern: Sexual content in a dance in Brighton Beach
+'Scandal Dance" Shocks Brighton Beach Visitor Soulless Nymphs Discovered by the Rev; Fred Kopf manr-Former Tango Tea cher Astonished "by "Big Sex Display" "Island Vulgar Paradise" Need of Censorship. , Visitors to the bathing placet at Brighton Beach can afford to leave their Imaginations at home. For persons and their actions at Brighton Beach make the exercise of the, imagination unnecessary. u you ao not Deiieve this, take a, inp iu mat section or Conev Js nnrl and look for yourself. The Kev. Frederick Kopfman was down there the other day and ha was grievously shocked by what he saw in the way of half naked nymphs, bare-kneed bathers, "Scandal Dances," eta "New York conditions refrardinar the sex problem are beyond the wildest dreams of any reformer," observed the young minister. Mr. Kopfman made this observa tion in the vestibule of a John street. Manhattan, office building. He was c

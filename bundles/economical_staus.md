@@ -1,0 +1,5 @@
+# Economical staus
+
+
+## CLIP https://www.newspapers.com/clip/30012419/the-universalist-watchman/ | The Universalist Watchman | Thu, Apr 29, 1813 · Page 4 | concern: Humanity/Being sympathetic
+Novel Reading. BY 0. A. BROWXSOX. It is never good to excite the mind or the heart overmuch, save when it can find immediate vent in actions which concern real life. A confirmed novel reader is always morbid; on some sides prelernaturally sensitive, on others preternaturally callous; capable, it may be, ol talking much fine sentiment, hut wanting in that spiritual strength, in that moral robustness, which is equal to the performance of a useful but difficult part in real life. The less fine sentiment we have on our lips, the more genuine feeling shall we have in our hearts ; and the more noble and generous action shall we perform. He who stops to sentimentalize about poverty, will be the last to throw his cloak over the tattered gabardine of the beggar. This is no doubt all very antiquated and altogether old fashioned. But we hope our young friends, seated on rich ottomans, or reclining 

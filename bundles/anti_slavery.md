@@ -1,0 +1,5 @@
+# Anti-Slavery
+
+
+## CLIP https://www.newspapers.com/clip/53223875/new-york-daily-herald/ | New York Daily Herald | Sat, May 28, 1853 · Page 2 | concern: Court/Opponents
+THE ANA-SLAVERY FANATICS IN BOSTON. I tl'ESI MI.16S OF TIE HSL\E CONVENTION. War Against Eeligion, thi Constitution, and FreMoilism, Ae., Ac., AcProm Oar Special Reporter. Bo*tox, May '^5, 1853. Ae New England Anti-slavery Convention assembled at the Mvlodeen this morning at 10 o'clock. Tne hall wee well fiUetl. aad for the pest three years there has not ' |l^ great a gathering of the faithful as on thin occa- j Albeit, ihe brethren aud ?i?'*r? &gt;lo not seem so ?nitcd as formerly, probably on account of the fact that etveral of the leaders, including the notorious Garrison, took prominent parts in the Hale dinner. Many of the Old line abolitienists go In for the "entire animal," with them it is "root hog, or die," to use a vulgar but exgreeaive phraee. Probably your readers aie aware that ? port oa of the abolitionist party refused to vote at the Iftht election, stating that they could

@@ -1,0 +1,5 @@
+# Marriage
+
+
+## CLIP https://www.newspapers.com/clip/39795565/the-los-angeles-times/ | The Los Angeles Times | Wed, Dec 11, 1901 · Page 21 | concern: Woman leaves man after 1 day marriage
+to ATH OF AUST'S LOVE DOES NOT EUN SMOOTH. WORKED HARD TO GET BRIDE AND THEN SHE LEFT HIM. Only a Day of Wedded Bliss for the Groom, When the Fair One Departed Leaving Some of Her Clothes Behind Her. BY DIRECT 'WIRE TO THE TIMES. 1 TACOMA. Dec. 11. Exclusive Dispatch. John Aust of Bolstfort is having a hard time to secure possession of his wife, whom he married the day after Thanksgiving. Her maiden name was Olene Oveson. For several months she has been living with friends at Napavlne. She set the wedding day for Thanksgiving, but refused to go with him to Chehalis and be married on that day. Aust had previously secured the marriage license and the written consent of both her mother and stepfather. The day after Thanksgiving Aust went back accompanied by friends, who persuaded the girl to marry him. The ceremony was performed by the Rev. Monfort of the Presbyterian Church at Chehalis. Au

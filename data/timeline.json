@@ -1,0 +1,149 @@
+[
+ {
+  "year": 1850,
+  "name": "Telegraph",
+  "emoji": "\ud83c\udd98",
+  "description": "It was humanity\u2019s first taste of mass communications, and immediately triggered the same concerns about information overload, frivolous communications, loss of privacy, and moral corruption that today we blame on the internet.",
+  "board": "telegraph"
+ },
+ {
+  "year": 1869,
+  "name": "Telephone",
+  "emoji": "\ud83d\udcde",
+  "description": "Phones have been accused of ruining romantic interaction and addicting us to mindless chatter, but neither of these accusations are new. Long before they made their way into our pockets, telephones were being blamed for all kinds of familiar crimes. ",
+  "board": "telephone"
+ },
+ {
+  "year": 1871,
+  "name": "Photography",
+  "emoji": "\ud83d\udcf8",
+  "description": "Photography is the art, application, and practice of creating durable images by recording light, either electronically by means of an image sensor, or chemically by means of a light-sensitive material such as photographic film. Known early on by some as \u2018sun pictures\u2019, this technology would change culture and media in important ways.",
+  "board": "photography"
+ },
+ {
+  "year": 1880,
+  "name": "Novels",
+  "emoji": "\ud83d\udcd6",
+  "description": "Long before television and video games, or before comic books and D&D, novels were the new and scary form of entertainment. They were accused of corrupting the youth, of planting dangerous ideas into the heads of housewives, and distracting everyone from more serious, important books.",
+  "board": "books/reading/novel"
+ },
+ {
+  "year": 1885,
+  "name": "Electricity",
+  "emoji": "\ud83d\udca1",
+  "description": "Electricity offered a new way to light homes and power applicances, but it came with a level of danger too, something even Thomas Edison played up in his battle with Nikola Tesla.",
+  "board": "electricity/electric"
+ },
+ {
+  "year": 1887,
+  "name": "Vaccines",
+  "emoji": "\ud83d\udc89",
+  "description": "Since the first development of the smallpox vaccine in 1798, anti-vaxxers have been an active. Those that fought the more primitive, less safe methods of inoculation didn\u2019t welcome vaccination as a safer alternative. Their arguments have stayed the same over the centuries.",
+  "board": "vaccines/vaccination"
+ },
+ {
+  "year": 1890,
+  "name": "Bicycle",
+  "emoji": "\ud83d\udeb2",
+  "description": "When the bicycle debuted in the 1800s, it was blamed for all sorts of problems\u2014from turning people insane to devastating local economies to destroying women\u2019s morals.",
+  "board": "bicycle/velocipede"
+ },
+ {
+  "year": 1900,
+  "name": "Elevators",
+  "emoji": "\ud83d\uded7",
+  "description": "As the elevator gained popularity in the late 1800s, it had a profound effect on the way we organize our cities and ourselves. It was also blamed for a rise in crime, for causing something called brain fever, for destroying civil society, and more.",
+  "board": "elevator"
+ },
+ {
+  "year": 1903,
+  "name": "Airplane",
+  "emoji": "\u2708\ufe0f",
+  "description": "While the airplane was revolutionizing how we live our lives, it was also evoking all kinds of grief from the same pessimists who resisted the bicycle and the horseless carriage.",
+  "board": "plane"
+ },
+ {
+  "year": 1907,
+  "name": "Teddy Bears",
+  "emoji": "\ud83e\uddf8",
+  "description": "Cute and cuddly, or a \u201chorrible monstrosity\u201d that\u2019ll destroy humanity? Many people feared the worst\u2014that this new toy would ruin young girls\u2019 developing maternal instincts, and lead us to a terrible fate",
+  "board": "teddy"
+ },
+ {
+  "year": 1909,
+  "name": "Mirrors",
+  "emoji": "\ud83e\ude9e",
+  "description": "Vanity was born when the mirror was discovered. People (and especially women) were condemned for looking in the mirror, and accused of being sinful. But then the mirror altered the way we think about vanity altogether\u2014forever changing the way we look at ourselves.",
+  "board": "mirrors"
+ },
+ {
+  "year": 1911,
+  "name": "Automobiles",
+  "emoji": "\ud83d\ude98",
+  "description": "When the car began replacing the horse, pessimists didn\u2019t treat it like a great new tool. They called it \u201cthe devil wagon,\u201d and said its mission was to destroy the world.",
+  "board": "automobile/horseless carriage"
+ },
+ {
+  "year": 1918,
+  "name": "Masks",
+  "emoji": "\ud83d\ude37",
+  "description": "Mask wearing was just as controversial and divisive in the 1918 pandemic as it is today. Some doubted their effectiveness and even accused them of making people sicker, an \u2018anti-mask league\u2019 emerged and many were arrested.",
+  "board": "masks"
+ },
+ {
+  "year": 1920,
+  "name": "Radio",
+  "emoji": "\ud83d\udcfb",
+  "description": "The power of radio was clear from the beginning, but the scope of that power was up for debate. With this new technology came a familiar list of fears: kids being robbed of a traditional childhood, spikes in juvenile crime and the balance of elections being tipped. These fears inevitably made their way into the headlines of the time. ",
+  "board": "radio"
+ },
+ {
+  "year": 1920,
+  "name": "Recorded Sound",
+  "emoji": "\ud83d\udd0a",
+  "description": "In the early 1900s, recorded sound was accused of muddling our minds, destroying art, putting musicians out of work, and even harming babies. ",
+  "board": "recorded sound"
+ },
+ {
+  "year": 1924,
+  "name": "Film",
+  "emoji": "\ud83c\udfac",
+  "description": "Like any new form of media, motion pictures were quickly subject to all kinds of wild accusations. They were blamed for juvenile crime, corrupted morals, weakened minds, and ruined eyesight. Here are some of our favorite early reactions to motion pictures.",
+  "board": "motion pictures"
+ },
+ {
+  "year": 1926,
+  "name": "Jazz",
+  "emoji": "\ud83c\udfb7",
+  "description": "The cultural influence of Jazz, was frowned upon by some Americans. Jazz was blamed for unruly youths, promiscuity, crime, divorce, murder and suicide. The concern was generally racially motived.",
+  "board": "jazz/jazzmania"
+ },
+ {
+  "year": 1940,
+  "name": "Television",
+  "emoji": "\ud83d\udcfa",
+  "description": "Television became available in crude experimental forms in the late 1920s, but it would still be several years before the new technology would be marketed to consumers. After World War II, an improved form of black-and-white television broadcasting became popular in the United Kingdom and United States, and television sets became commonplace in homes, businesses, and institutions.",
+  "board": "television"
+ },
+ {
+  "year": 1950,
+  "name": "Comicbooks",
+  "emoji": "\ud83e\uddb8\ud83c\udffb\u200d\u2642\ufe0f",
+  "description": "In the 1950s, America declared war on the comic book. People feared that they\u2019d turn children into hardened criminals, and so opponents burned them in large piles, states banned them, and the U.S. Senate investigated their dangers.",
+  "board": "comics"
+ },
+ {
+  "year": 1970,
+  "name": "Computer",
+  "emoji": "\ud83d\udda5\ufe0f",
+  "description": "Before they revolutionized how we live and communicate, computers were thought to be everything from an existential threat to a dying fad. Even Wozniak publicly doubted their usefulness.",
+  "board": "computer"
+ },
+ {
+  "year": 1980,
+  "name": "Walkman",
+  "emoji": "\ud83c\udfa7",
+  "description": "In the 1980s the portable cassette player was accused of turning people into \u201cwind-up non-humans,\u201d laws were passed to keep them off the streets, and one New Jersey man risked jail time for his right to walk with headphones.",
+  "board": "walkman"
+ }
+]

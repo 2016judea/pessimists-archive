@@ -1,0 +1,5 @@
+# Medicine
+
+
+## CLIP https://www.newspapers.com/clip/35489601/new-ulm-review/ | New Ulm Review | Wed, Dec 28, 1921 · Page  9 | concern: Character impact on tuberculosis
+CHARACTER AND LOSte. 24,"cure." thecase 25to TUBERCU- The character of an individual as a* fa'ctor tn tlfe ^ttatrtfe vt Avoiding active tuberculosis or of arresting its progress, if he has contracted it, is one of the most important considerations in meeting the menace 6i this disease Which afflicts a million people in an active state in this country today and w^s Yesponsftie for 132 00u deaths during the past year. Tfie g'eVlrns 'of tuberculosis are j^tferywhere and in mahy'Wes "the itifani and chil&amp; csR£! nki aoVione irtfo/.'Knn. Whether t.tris-in- riot escap irifectio^i Whether this-in feV:ti(5^rip^nfe lritp disease^ depends t6 large extent upon the habits "of living, which the child acquires as he grows older. ^i&amp;^t habits of living, whether to avoid development of the disease or as a me:ans of arresting it's progress in the case' of 'an adult, are the "basis of It h'&amp;s b

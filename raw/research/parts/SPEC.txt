@@ -1,0 +1,52 @@
+TASK: research historical cases where warnings/fears/skepticism about a new technology, product,
+substance, financial innovation or idea proved RIGHT (verdict fear_right) or PARTLY right (verdict mixed).
+Counterweight to the Pessimists Archive (which only catalogues fears that proved wrong). Used for business
+ideation to avoid survivorship bias. Be honest: if the evidence says the fear was mostly wrong, say so and
+DROP the case (report it), or mark mixed if genuinely partial.
+
+OUTPUT: one JSON object per line (JSONL), appended to YOUR part file as you finish each case
+(write incrementally, do not batch at the end). Use python3 json.dumps(obj, ensure_ascii=False) to append,
+so escaping is valid. Fields, exactly these keys:
+
+case_id           slug, e.g. "thalidomide-1961"
+thing             what was new
+domain            one of: media|computing|transport|energy|medicine|food|finance|work|consumer|science|culture
+year              int, when the warning was voiced (first strong statement)
+claim             one plain line: the warning
+claim_type        one of: health|youth_morals|jobs|safety|wont_work|isolation|decline|environment|financial|privacy|security|legal
+warner            one of: press|physicians|scientists|clergy|incumbents|unions|government|intellectuals|public|investors|insiders
+incumbent_stake   bool: did the warner stand to lose if the thing won
+verdict           fear_right | mixed
+what_happened     one line
+years_to_verdict  int
+dismissed_by      who waved the warning away (one short line)
+cost_of_error     one line, with numbers where known (deaths, $ losses, settlements)
+modern_analog     array of strings, from e.g.: AI, social media, crypto, GLP-1, EVs, self-driving, gene editing,
+                  nuclear, vaping, ultra-processed food, sports betting, smartphones, LLM chatbots, private credit,
+                  stablecoins, drones, AR/VR, microplastics, space tourism, longevity, fintech, gig economy
+lesson            one transferable sentence for someone deciding today
+quotes            array of {"text": verbatim, "speaker", "year": int, "publication", "url"}
+sources           array of urls (prefer regulators, courts, peer-reviewed retrospectives, major newspapers)
+confidence        high | medium | low
+
+HARD RULES (why: this feeds a dataset whose whole value is that it can be audited):
+1. Verify each case with at least one source you actually FETCHED (WebFetch or firecrawl_scrape),
+   not just a search snippet. Put fetched urls in sources.
+2. Quotes must be VERBATIM text that appears on a page you fetched, and the url field must be that page.
+   Prefer the WARNER's own words (e.g. Boisjoly's 1985 memo, Markopolos's SEC submission, Rachel Carson,
+   a regulator's report quoting the warning). Copy-paste exactly; do not tidy, translate or paraphrase.
+   If you cannot find a verbatim warner quote on a fetched page, set quotes to [] and confidence "medium".
+   confidence "high" = verbatim warner quote fetched + authoritative source; "low" = thin evidence.
+3. Honest verdicts: "mixed" when the fear was real but overstated, or right about harm but wrong about scale/
+   adoption, or the evidence is still contested. Do not upgrade a contested case to fear_right.
+4. Keep every text field to one line. No newlines inside values.
+5. Budget: ~2-4 tool calls per case. Wikipedia is acceptable as a fetched page for a quote only if the quote
+   is attributed there; prefer primary/regulator/newspaper pages. Good sources for quotes: Wikipedia articles
+   that quote memos, history.nasa.gov, sec.gov, congress.gov, fda.gov, nytimes/guardian/ft archives,
+   PubMed/PMC retrospectives.
+
+TOOLS: load WebFetch/WebSearch with ToolSearch ("select:WebFetch,WebSearch") or use
+mcp__firecrawl__firecrawl_search and mcp__firecrawl__firecrawl_scrape (formats ["markdown"]). If one tool
+fails on a site, try the other.
+
+FINAL REPLY (short, under 8 lines): number of cases written, case_ids written, cases dropped and why.

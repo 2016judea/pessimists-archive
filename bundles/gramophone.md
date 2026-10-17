@@ -1,0 +1,5 @@
+# Gramophone
+
+
+## CLIP https://www.newspapers.com/clip/32209127/the-guardian/ | The Guardian | Tue, Jul 26, 1921 · Page 5 | concern: Court case
+A LONDON "NUISANCE." GRAMOPHONE IN EARLY MORNING A series of complaints made at Lambeth County Court yesterday aeainst a tenant nf a flat at Loughborough Park included the allega-said she started the gramojihone at a quarter lion tnat a gramophone was played at from six to seven o'clock in the morning. Respondent past eight in the morning to amuse the babv while she dressed. Jlldpe Parrx : Sn vnn hm-a u Kt-h,, i. like.- it. Do you I Kesnondent: I do not e.im fnr it li,t i-,oi... likes it. Judge Parry: It amuses the babv. We have been lolil tl-mf flm i... v. .. .v. wiu. uiuaiv. ui cm; LiailJUiuullc should be part of a child's musical education. i -ii.. j . i cisuii.iiiy, ! (jum iiKe me gramopnone, but people are entitled to hear it play. The ladv line n Hi finmnliAi.a 1...I un - "i " n ..iv.vuc, ..ui is Limi, it nuisance i Take church bells. In some places they are Hums an nay. Are mey a 

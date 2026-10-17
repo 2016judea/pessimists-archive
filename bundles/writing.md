@@ -1,0 +1,5 @@
+# Writing
+
+
+## CLIP https://www.newspapers.com/clip/34421423/the-indianapolis-news/ | The Indianapolis News | Wed, Oct 10, 1906 · Page  6 | concern: People dont write due to laziness
+A LOST ART. Decay of Letter Writing a Result of , - - v tha Modern Laziness. - : '"."" fCammuntcatlon In .W Tork Sna.l To get, up In the morning and find ths tcUsrbox fuir or pictured postal cards Is. to put it .familiarly, riling! ' The. typo - writer, began the demolition of the; gentler art of correspondence only to.be fol lowed by this further shuffling off of . responsibilities in that line. - Albums are now filled with this postal card rubbish, and even rooms are papered with them. Friends Jo not even write a short note with ths inevitable, "Yours in haste.'" They lay tn a stock of these inanities, scribble the address, snl mail them. They are supposed to bo as good as a letter. ' ' " ' : ' - i .. ." I doubt very much If there Is one family in a hundred nowadays whose members Indulge in the good old fashion of writing sensible, readable letters to one an other.. : Even acknowledgme

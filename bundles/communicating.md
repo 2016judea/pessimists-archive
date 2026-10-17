@@ -1,0 +1,8 @@
+# Communicating
+
+
+## CLIP https://www.newspapers.com/clip/44283272/daily-arkansas-gazette/ | Daily Arkansas Gazette | Wed, Dec 31, 1879 · Page  6 | concern: Through tin cans and string
+The Lovers' Telephone. "The Lover' Telephone" is the name of a iittr contrlYance, now being sold on the streets, by which sounds are transmitted along a cord attached to two cylinders, and supposed to be very effective in mitigating aggravated cases of ."stern parient.'' A young lady onPost street was in "the habit of eluding the lynx-eye of her father by dropping one of these inventions from the third-story side-window every night, and holding sweet converse with her adored, but financially in- ..eligible-8weetheart,,who stooujl on. the"pave'menf "below.'The other night the "governor" happened to notice a mysterious cord that passed his window, and on investigation discovered the little arrangement. He deftly attached another string hall way, and applying it to his ear, enjoyed an affectionate interview then in progress. 'Would it be sale for me to call to-morrow?" finally inquired the 
+
+## CLIP https://www.newspapers.com/clip/68560969/the-summit-county-beacon/ | The Summit County Beacon | Wed, Feb 04, 1880 · Page  6 | concern: Through tin cans and string
+loaded me sunshine of kindest and sang kneeling by locks that with no lovingly held as usual. All the services were well attended, and very interesting throughout. The telephone mania has struck the college. Several of the buildings are already connected by threads, and lines are going up fast. A cylinder of tin with a membrane stretched on it at each end, connected with a thread, and the telephone is complete. .LiAElil us. A Treat for Tallmadge. continuous a load good the about tour started busy Oil following

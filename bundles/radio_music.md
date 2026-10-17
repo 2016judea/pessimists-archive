@@ -1,0 +1,5 @@
+# Radio/Music
+
+
+## CLIP https://www.newspapers.com/clip/34184910/pittsburgh-sun-telegraph/ | Pittsburgh Sun-Telegraph | Sun, Dec 08, 1935 · Page 53 | concern: Music crisis approaching
+t IND T. LI Song rD Dtcparit 1 i Song n the Air , May Soon Get Squelched SURPRISE Music Crisis Is Approaching GLEE , r rivver-rn 'Song in the Air' May SURPRISE ; Joan Blaine, ho plas s the , lead in the "Pat Pageant" series g ever KDKA at 9:30 on Mondays, is registering unconcealed cur. prise for the microphone in this candid camera shot of recent broadcast. Mati-Hari Dramatized on Air WANTEDA modern Meta, Hari! Danger of new European war revives interest in military super-spies. One of the most mysterious and fascinating personalities of the World War-- Mate-Hariis the central chard acter in the dramatic story of military intrigue broadcast in this week's Front Page Drama, The broadcast will be pre' rented under the auspices of the Pittsburgh Sunday Sun-Telegraph. The part of Mata-Hari will be played by the young radio and stage star, Linda Carlon, who hm appeared on Broadway in "Blesse

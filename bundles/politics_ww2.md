@@ -1,0 +1,5 @@
+# Politics/WW2
+
+
+## CLIP https://www.newspapers.com/clip/48767093/the-gazette/ | The Gazette | Sat, Nov 18, 1944 · Page 13 | concern: German youth involvment in WW2
+PRESENT WAR LAID TO GERMAN YOUTH H. B. Parker, Former West-mount High Principal, Gives Graduation Address PRIZEWINNERS LISTED Movies, Radio, 'Cheap' Newspapers Blamed as 'Trouble Makers'; Education of 'Masses' Urged The war was not started by business men and farmers of Germany, but by the educated youth of Germany that had graduated from the high schools and universities during the years previous, declared H. B. Parker, M.A. who retired in June as principal for 17 years, after serving the Westmount Protestar.t School Board in the capacity of. teacher and principal for 34 years. last night at the westmour.t H:g;i School graduation. "Dare I say that the spread o: education was the cause of thu present war?" he asked. "Not only the education received in the classroom, but the movies, the radio and cheap newspapers . . . are the great trouble makers. Not because they are agencies of propaga

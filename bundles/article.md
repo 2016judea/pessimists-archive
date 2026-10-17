@@ -1,0 +1,5 @@
+# Article
+
+
+## CLIP https://www.newspapers.com/clip/35426128/the-news-journal/ | The News-Journal | Tue, May 18, 1920 · Page 2 | concern: Causes for divorces
+BAPTISTS FIND THE CAUSES FOR :::PNYDiyORCES Booze, Lax Laws and Moving ; Pictures Blamed For Un-. . happy Marriages. fcv'r - - X. .Washington, May 17 Motion pictures; lax laws and .intemperance are blamed for the numerous divorces in the United States by the committee of temperance and social service in its .report to the Southern Baptist convention today. Enactment of a uniform code of marriage and divorce law's was recommended as a remedy. Quoting from government, statistics on the number of divorces obtained annually in the country the report shows that in 1918 when the figures were gathered there were 112,036 di- vorces. . , - ! -If later figures were available, the I report continued, "the picture would J doubtless be darker still, certainly this would be true of 1919 owing to the. large number of hasty and foolish marriages contracted during the war." As a primary cause of "this sa

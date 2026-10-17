@@ -1,0 +1,5 @@
+# Clocks
+
+
+## CLIP https://www.newspapers.com/clip/76698151/independence-daily-reporter/ | Independence Daily Reporter | Sat, Dec 04, 1886 · Page  2 | concern: Not well manufactured
+' eye, tho earth blessed What Time la It. This is an era of oheap clooks. Man ufactories of clocks have to keep running, so thoy make clooks not only for the jowoler's trade, but for all other branches of trade. Years ago a jew elry store was the only place where a ! olook could ho obtained; and a family bought a good clock, and it lusted lifo-tlmo. One small manufactory could keep up with the demand foi clooks, as thoro was only sale for a new clock whon a young family wont to koeping house, after marriage. But there caniocompotlng clock manufactur ers, and a demand hud to be created for clocks, and so cheap clocks became fashionable for brlo-u-brao. Tho fao- tories had to havo sales of docks in order to konp mon at work, and the result Is, that a man or woman is in luck if thoy do not have a clock sawod off on thorn onoe or twice a week. Tho a A two-pound has been N.C. A America 1892. 

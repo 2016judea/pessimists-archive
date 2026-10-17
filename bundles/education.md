@@ -1,0 +1,5 @@
+# Education
+
+
+## CLIP https://www.newspapers.com/clip/78601221/nashville-banner/ | Nashville Banner | Mon, Mar 01, 1909 · Page 6 | concern: Thomas Edison (academia vs practical)
+1I TELE vArut or EDUCATION Thomas A Edison IS doubtful of :what be calls the "valuable advantage" of a college education to men of science The "iurely academic training" be says Is algreatwasteof time since in fotir years na one eau learn all the essential points sclenceand four years of active and experimental work U1 be of much greater value than an equal Amount of timIt Spnt1n obtaining a college education"' - Mr Edison's idea is that success comes of the concentration of the specialist 1"It is impossible" be says "to learn qeverything In the world" and be adds: tlet each man pick his courses and with are then follow it out" 1 It Is easy to see that Mr Edison is largely Influenced by his own experience He was possessed of a genius for the line of work he has followed and great assiduity helped him to success It is Impossible to say 'what be might have I lone if he had spent his early 

@@ -1,0 +1,5 @@
+# Movies/Videos
+
+
+## CLIP https://www.newspapers.com/clip/40300283/the-oshkosh-northwestern/ | The Oshkosh Northwestern | Sun, Jul 24, 1988 · Page  43 | concern: Debate (will it catch on)
+Industry: Will home video phones catch on? By DEBORAH MESCE Associated Press Writer WASHINGTON (AP) Nearly a quarter-century after visitors to the 1964 New York World's Fair were introduced to the Pic-turephone, the see-as-you talk concept is being offered again. The cost is lower, but so is the technology. ' Unlike the moving images of the Picturephone, which let fair-goers see as well as hear the person on the other end of the wire, the new devices produce only a freeze-frame shot. ; . And industry analysts still question whether the home video phone's time has come. ; "The issue is behavior," said A. Michael Noll, a professor of communications at the University of Southern California who worked for American Telephone &amp; Telegraph Co. in new product planning in the mid-1970s. . Using the telephone is akin to "whispering in the ear. Seeing somebody almost destroys the intimacy of the

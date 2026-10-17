@@ -1,0 +1,5 @@
+# Newsletters
+
+
+## CLIP https://www.newspapers.com/clip/75611310/the-tipton-daily-tribune/ | The Tipton Daily Tribune | Mon, May 22, 1967 · Page  6 | concern: Newsletters mania
+• * * * • NEWSLETTER MANIA—Anyone remotely connected with the handling of news is aware of the proliferation of specialized newsletters. It all began many years ago when an enterprising journalist worked out a weekly letter format that carried "inside" news of interest to a particular business-oriented group. Since then, newsletters have mushroomed until now one can' be found on virtually any subject that comes to mind. Recently, the newsletter idea was adapted to politics. A Midwest firm launched the "Kennedy Newsletter," devoted to recording the activities of that noted political family. On the apparent theory that what's good for the North is good for the South, another political newsletter is about to make its appearance— the George Wallace Newsletter, to record the political activities, ot.the former governor of Alabama, as he goes about his chosen task of seeking the 19GS president

@@ -1,0 +1,5 @@
+# Commercial/Article
+
+
+## CLIP https://www.newspapers.com/clip/36942216/lincoln-journal-star/ | Lincoln Journal Star | Mon, Jan 08, 1996 · Page 20 | concern: Pager
+i'rri h 'BY JOHN FULWIDER if X'x ' c ' - " Lincoln Journal Star l " 0 u n Not all teen-" 'agers who carry ' pagers are drug dealers. ; Pagers, also known as ' beepers, are becoming more and more popular with teens as ways to keep in touch with their friends and parents. They look cool. too. Scott Campbell works at Target. 5330 S. 56th St. The Lincoln Southeast junior uses his pager to keep in touch with parents and friends. But he doesn't wear the pager as a fashion statement. "Half the time, I wear it down at the bottom of my pocket," he said. "It ain't doing no fashion statin' there." Scott's pager came in handy one day w hen his friend's truck broke down. The fnend couldn't reach anyone to come pick him up - but he did reach Scott's pager. But the pager can be annoying at times. Sometimes, when Scott is having tun at a party, his pager w ill beep - wiih a message from his ' parents. B

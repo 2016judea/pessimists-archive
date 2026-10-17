@@ -1,0 +1,5 @@
+# Automobile
+
+
+## CLIP https://www.newspapers.com/clip/40857483/the-news-herald/ | The News-Herald | Sat, Apr 19, 1902 · Page 2 | concern: Auto-mobile face
+FOURNIER ON THE AUTOMOBILE FACE. Say Successor to "Bicycle Face" Iff the Resnlt of Nervous j 7 Tension . The "automobile face" is the sue-sessor to the "bicycle back," the "bi-,cycle face" and the "board walk foot." Henil Fournler speaks as follows on this latest physical peculiarity: "The most careful chauffeur cannot avoid being shocked every time he " takes a spin. I do not think that any other sport known to man affords so much excitement One needs a stout heart and a strong nervous system as well as keen eyes to indulge in this most modern pastime, for I do not believe that navigating a flying machine brings a man into contact with more perils. . "The automobile face is no joke. It is the startling presentation in the human physiognomy of the record of thousands of dangers passed or, rather, close escapes from danger. I have never been in but one accident that was really serious, an

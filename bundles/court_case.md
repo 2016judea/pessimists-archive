@@ -1,0 +1,5 @@
+# Court-case
+
+
+## CLIP https://www.newspapers.com/clip/76849474/the-lancaster-examiner/ | The Lancaster Examiner | Wed, Feb 01, 1888 · Page 2 | concern: Art-nudity
+UE XiAbCAWlKK Taylor at before session bodies steps has request for an be will country. only the put raUway ever at plan, ANTHONY COMSTOCK. A Philadelphia court very sensibly sat down on Mr. Anthony Comstock the ether day. Mr. Comstock is the burly, block-bead agent of a society for the suppression of obseene literature, and in bis insane idea that all nude pictures sre obscene be seized photographs whose originals adorn private houses and fill the pub-lio art galleries of Europe and America. Such a man would haul the Pope before the polioe court because of the nude canvasses in the Vat loan ; he would make it warm for the directers of the famous galleries of the Louvre in Paris, of the Berlin and Dresden art collections. If he is upheld in his stupid crusade why Belmont, Vanderbilt, Aspinwall, the Metropolitan Art Mnseum, the Academy of Design, are liable to seizure, if it be decided tl

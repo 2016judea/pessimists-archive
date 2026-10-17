@@ -1,0 +1,5 @@
+# Family
+
+
+## CLIP https://www.newspapers.com/clip/76848167/rutland-weekly-herald/ | Rutland Weekly Herald | Thu, Aug 11, 1859 · Page 1 | concern: Living a long time
+11, 1859. Herald. . - ' , , cry. , : . 3 ee. well, rain. star. clings yore. never! E aji1iat io.fi thrcmjhtut Vfthodit Arner- Church, as mero- common, I to he him impediment original Churrh original sin an.l of Stewards. even with but -on the be'.on? terrible the th disgr ar. therefore secure, if Con Y'.. tV. whicffT to Church. I its malign Church j much j to wipe , pare es ihtt the bring an-l grest Mini-try, Longevity Promoted. To a very great extent, our life is in our own hands, although it is the prevailing fashion of the times, to regard death, especially if it is premature, or if the person dying of any age, occupies a position of influence and usefulness, as a 'mys terious dispensation ol x rovidence, when in reality, 'Providence, bad nothing to do with it ; only indirectly, in having founded the laws of our being. When men die short of eighty or ninety years,it is the result of v

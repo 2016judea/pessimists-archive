@@ -1,0 +1,5 @@
+# Watch/time
+
+
+## CLIP https://www.newspapers.com/clip/29895221/the-newcastle-weekly-courant/ | The Newcastle Weekly Courant | Sat, Jan 26, 1889 · Page 2 | concern: Ppl too focused on time
+"THE WATCH MANIA." "It is a mad world, my masters," said the wiseacre, and we need not go far to find proof of it. Indeed, confirmation, is it not everywhere at hand? To put a watch in the toe of one's shoe is certainly one more proof of folly. It is being done, however. We give ourselves no time to think nowadays- Ijife is such a rush aud drive, else we might not be bo anxious to place thus constantly before our eyes that solemn and awe inspiring motto which the Latins rendered, " Temnus fugit." I hoar thn.t yet another place has been found for miniature time-keepers it is in the corner of menu cards. The watch mania, as it. is called, is certainly excessive; indeed it becomes rabid.

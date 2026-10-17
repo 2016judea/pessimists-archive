@@ -1,0 +1,5 @@
+# Telphone
+
+
+## CLIP https://www.newspapers.com/clip/50653004/the-des-moines-register/ | The Des Moines Register | Sun, Dec 25, 1988 · Page  53 | concern: Portable phones in Hong Kong
+Ilong Kong fad: Portable phones HONG KONG (AP) - The rage of Hong Kong these days is easy to spot. Just look for the tiny antennas, the telltale sign of the portable telephones so many people are carrying wherever they go. Despite price tags cf $2,000 or more, the hand-held telephones have become a huge hit in this British colony, where doing business is a 24-hour preoccupation and new status symbols are always in demand. Downtown streets are filled with professionals ready for business with the cellular phones tucked under their arms or stuffed, antenna-up, into briefcases. Away from the financial district, people can be seen barking into the phones while eating in restaurants, riding public buses and ferries or sitting in darkened movie theaters. Everyone from executives to proprietors of produce stalls can be seen chatting away. The Hong Kong Standard newspa per spotted a telephone in

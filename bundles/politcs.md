@@ -1,0 +1,5 @@
+# Politcs
+
+
+## CLIP https://www.newspapers.com/clip/62767887/the-miami-herald/ | The Miami Herald | Sat, Jul 04, 1987 · Page 37 | concern: Democratic things are to come
+Bow ties flannel shirts hint at Democratic things to come By TOM SHALES Special to The Herald What a chore to tear oneself away from Aliens on HBO for Democrats on PBS But it turns out the Democrats too put on a good show Wednesday if not a hair- Commcnt raising thriller The tele-political year has begun with a bang William F Buckley Jr invited seven Democratic presidential contenders to join him in Houston for a Firing Line Special Buckley the gourmet conservative announced that the program would be “unsparingly partisan but scrupulously fair” and he asked "Mr Democrat" former party chairman Robert Strauss to co-host the show The structure was looser and more productive than the rigid League of Women Voters debates that precede elections Of course it’s awfully early to get Into a 1988 election mood But the program offered intriguing enlightening glimpses of the Democratic hopefuls — not

@@ -1,0 +1,5 @@
+# Politics/Feminism
+
+
+## CLIP https://www.newspapers.com/clip/43113649/stevens-point-journal/ | Stevens Point Journal | Wed, Jun 13, 1900 · Page  3 | concern: Pro-Feminism voting for women
+Haffrige a Clvlllaer. I want to say this as coming from Colorado: The experience we have had ought to demonstrate to everyone that woman suffrage is not only right, but practical. It tends to elevate. There is not a oaucus but is better attended, and by better people, nnd held in a better nlflcp. T Jinvn i ' Hon. John F. 8hafroth. seen the time when a political convention without a disturbance and the drawing of weapons was rare. That time is now past In Colorado, and it is due to the pres ence of women. Every man now shows that civility which makes him take off his hat and not swear, and deport himself decently when ladies are present. Instead of woman's going to the polls corrupting women, it has purified the polls. Husband and wife go to the pons together; no one insults them. There are no drunken men there, nothing but what is pleasant and decorous. Woman is an independent element in

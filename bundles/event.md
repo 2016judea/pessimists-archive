@@ -1,0 +1,5 @@
+# Event
+
+
+## CLIP https://www.newspapers.com/clip/30890112/the-inter-ocean/ | The Inter Ocean | Sun, Dec 30, 1888 · Page  3 | concern: Ball
+THE INAUGURAL. BALL. Indianapolis, Ind., Dec, 2y. The Journal will to-morrow devote a column editorial to the coming inaugural, especially with regard to the inaugural ball, and the clamor that rtain ministers of the gospel are making. through the press, over the "sin" of dancing. After reciting with what pomp and circumstances General ' Washington was inaugurated 100 years ago, the Journal concludes: "But the ball; there's the rub. Preachers that is, some sort of preachers are in dreadful distress about that; and ire urging General Harrison to rise to the occa sion, and place the seal of his disapproval upon the dance the awful, the wicked, the demoralizing dance by either forbidding it or SMt gracing it with his presence. General Har alson is pronounced Christian man. His Christian character is of a fiber strong and sturdy," and yet. we believe entirely courteous and Christlike. We do 

@@ -1,0 +1,5 @@
+# Pears
+
+
+## CLIP https://www.newspapers.com/clip/74715081/the-louisville-daily-courier/ | The Louisville Daily Courier | Sat, Nov 12, 1853 · Page  4 | concern: Profit/Growing industry
+high be only the mortar. a place the covered the floor, just with this with kind waste bent, prevent ice Cul-ivntor. It is sea-ison A saved soil are our pro of iaiportaotmat-ters. observed on bo and but for the an to our tho our lay of to entering was that bis r. fair A p sand-otone a From the Library and Gsrden. The Pear Mania. ny B. BODOE, BUFFALO, H. V. The increased attention that has been of late to ihe cultivation of the pear, has stigmatized by some writers as "the pear and as analagoua to tho famous "tulip mania" olden time, or the "morus multicaDhs mania" our own day. But the compirason will not good. The "pear mania" may perhaps propriety bo deemed analagoua to the "strawberry mania" or the "gold mania" if you The good people of Cincinnati have had "strawberry mania" for many years, and it very likely to continue; and doubtless will do so long as tho hundreds of bushels of this

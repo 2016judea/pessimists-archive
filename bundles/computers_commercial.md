@@ -1,0 +1,5 @@
+# Computers/Commercial
+
+
+## CLIP https://www.newspapers.com/clip/78666538/the-boston-globe/ | The Boston Globe | Tue, Oct 11, 1994 · Page 9 | concern: Internet (with picture)
+THE BOSTON GLOBE TUESDAY. OCTOBER 11, 1994 H ow to keen the Horn tyin you Internet 1 H a m m intenmots. Barnes &amp; Noble helps you go -global with an unrivaled selection of books to Keep you in line wun me uiiiuie. Internet Membership Kit J I Access nito8!$ nfi i 1 Also available in a Macintosh version. Pub. Price $69.95 Q)6 10 Internet Membership Kit" Windows Version Get online in no time . with no problems! Featuring two best-selling guides The Windows Internet Tour Guide and Vie Internet Yellow Pages Ms kit is your on-ramp to the information superhighway. B&amp;N Price Mill ; : :-' A Ana It jh INTERNE' NAVIGATOR The Internet Navigator: The Essential Guide to Network Exploration for the Individual Dial-Up User, Second Edition This worldwide bestseller has been updated to include the latest details about Internet service providers and new methods for accessing the Net from commercial 

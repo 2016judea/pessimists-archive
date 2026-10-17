@@ -1,0 +1,5 @@
+# Writing/Technology
+
+
+## CLIP https://www.newspapers.com/clip/32988004/the-daily-news/ | The Daily News | Tue, Dec 15, 1942 · Page 6 | concern: Anti-typewriters (too many)
+TOO MANY TYPEWRITERS One of the things wrong with this country may be too many typewriters. Here is not an irritable bleat caused by long slavery to mechanical writing, but a deduction from cur ront facts. The evil nature of such plemented by mimeographs, ilclen Lombard of the Hell Syndicate, Obviously, as she ob serves, when you can make 20 one, you automatically spread trouble and increasingly waste time. Somebody has to read all the papers typed, and find a use for them, or at least a place to put them. That means more room, more desks, more papers, more pencils, more wastehaskets, and so on, in an ever-mounting sea of trouble. The problem can be dealt with, however, by g strong man with the courage of his conviction, or even by a strong woman, although women are more tolerant of such evils than men. Admiral Ernest J. King, when he started in to clear the decks for action, is said to 

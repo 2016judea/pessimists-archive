@@ -1,0 +1,5 @@
+# Electiricity
+
+
+## CLIP https://www.newspapers.com/clip/39160141/the-yazoo-herald/ | The Yazoo Herald | Fri, Jul 02, 1897 · Page 4 | concern: Anti-electricity
+"Blamed the Wires. Electricity is responsible for the following bit of news, which is in tereBtiog if true : "Until within a few months, telephone lines have been unkuowu in Alabama. Outside of cities btet recently many '.Owns have established telephonic connection. Some of the ignorant farmers had heard of this but they Qotildu't Understand how it was that a man in oue place could speak to another 100 miles away. It so happened that kboitt the timo tiidt ihe iohg-disiance tele-phoue was run out of Huutsville, Ala., the price of cotton depreciated several points. The farmer is ipaloiia of uoiatldnS of his cottoii'. and being unable to account for the slump in any other way, laid it to the telephone. At first it was but 'a mete suggSsiklit, nut luter it became the actual belief along the law built by the Georgia and Alabama com pan)-. So thoroughly imbued were they with this idea that the

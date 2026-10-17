@@ -1,0 +1,5 @@
+# Cosmetics/Vanity
+
+
+## CLIP https://www.newspapers.com/clip/29894666/the-philadelphia-inquirer/ | The Philadelphia Inquirer | Tue, Jan 01, 1901 · Page  7 | concern: Hair brushes
+emphasize THE COMBING MANIA Some few years ago the edict went forth that if we desired good-looking heads of hair we should apply the brush religiously; indeed, it was whispered that we should even count the strokes. So the women who brushed twenty-five times stood a chance of gaining their objective point sooner than the one who only covered ten strokes. This was not all; we were highly recommended to use a metal brash, and here came the rub. Now. very few scalps can stand the painful effects o the metal teeth in these brushes.. It makes the skin tender and frequently causes irritation which hai been found very hard to remove. Many women took it for granted that when the skin became red a fine circulation was being enforced, and bravely did they continue to brush their locks and inflict pain, believing they were on the high road to success. The consequence is that the women who employed

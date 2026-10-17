@@ -1,0 +1,5 @@
+# Statue of Liberty
+
+
+## CLIP https://www.newspapers.com/clip/34889633/the-berkshire-county-eagle/ | The Berkshire County Eagle | Thu, Mar 15, 1888 · Page 4 | concern: Birds flying into it dying
+Ml - KILLED. - ! ! ! kc-ciireil tlieSe-enrlly . ; - Indlvld-; InereaN- auliivcnt- ln- uu-: aollclt-ed. PROF. RIDGWAY, Of the S.MITIISONIAX IXSXITUTI2, HAS A GREAT MANY BIRDS SENT TO HIM which are killed in large numbers by 'flying against the Statue of Liberty in JST ew York harbor. He says the specimens are mainly of the "Warbler" or Note-uttering family of different varieties ; also many freed birds, such ais the "Meadow Lark," a few wild ducks and geese are also destroyed. They pick up a great many birds around the Washington Monument. You can pick up a great many bargains at MORGAN &amp; CO'S. Just now, we have laid out our Odds and Ends ; they comprise Suits for Men and boys, Coats, Vests and Children's Suits.

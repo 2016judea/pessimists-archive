@@ -1,0 +1,8 @@
+# Religion
+
+
+## CLIP https://www.newspapers.com/clip/77959883/the-st-louis-star-and-times/ | The St. Louis Star and Times | Tue, Feb 01, 1927 · Page  8 | concern: Anti-atheism
+7 HE ST. LOUIS STAR j Bizarre Half Truths Taught in ; Some Schools Blamed for Suicides ; Rev. Albert Muentsch of St. Louis University Says Atheism, Not Psychology, Leads to Self-Destruction of Students. j Never before in the" history f hi im iiii ii
+
+## CLIP https://www.newspapers.com/clip/61233911/news-record/ | News Record | Sat, Sep 14, 1996 · Page  12 | concern: Christians (morals issues)
+-A12 -- Saturday, Sept 14, 1996 -- Nevrt Record Politics Christian group: Don't let moral issues The Associated Press WASHINGTON: With barely seven weeks left until what its leaders call the most important election of our lifetime," the Christian Coalition cautioned GOP ijominee Bob Dole on Friday not to let moral issues gel lost in his tax- and budget-cutting message. "We recognize thiscampaign, to a very great extent, needs to be about cutting taxes and balancing the budget," coalition director Ralph Reed told nearty 4,000 conservative Christians at the group's annual "Road to Victory* conference. "But, my friends, man does not ELECTION r live by bread alone," Reed said Â·Â·We are not, in the end, measured as a nation by our gross national product or by the Dow Jones industrial average We are not measured by our balance We are measured by the moral fiber of our people and by the integr

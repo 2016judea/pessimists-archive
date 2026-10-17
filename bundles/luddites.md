@@ -1,0 +1,5 @@
+# Luddites
+
+
+## CLIP https://www.newspapers.com/clip/36899863/the-freemans-journal/ | The Freeman's Journal | Fri, Sep 06, 1816 · Page  2 | concern: Unemployment
+PsUMavBaBAKi'oNotwit)i8tandnig the re cent convictions at Leicester, and the certainty that the most dreadful punishment awaits the commission of this offence, the practice is still persevered in; and we are much afraid, whatever may be the pre text, that the object of the Luddites (or at least ofj of those who assuinetlie name) is now that of I systematic plunder. On Saturday night last a party of armed men, to, the number of about 80, amtered the House of Mr. shepherd, In . tho parish of Stapleford, and dimtohahed f our frames for the roaking of cut-up work, $r stockings and not contented with tbttntweny, tney carried oif a flitch of bncon, end ttote- and ieoJi, my tha enliu crethet, two pair of shoes, end' other articles, In their anxiety after plOhuWr, it would appear, they nvddown a pistol, with the name ot Nicuneon Lottdon,H engraved upon it, irbteh they omitted to take away with t

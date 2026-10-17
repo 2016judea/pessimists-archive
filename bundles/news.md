@@ -1,0 +1,5 @@
+# News
+
+
+## CLIP https://www.newspapers.com/clip/40164679/the-news-palladium/ | The News-Palladium | Mon, Nov 05, 1917 · Page 3 | concern: Father Espel (Church/Religion)
+MONDAY, NOVEMBER 5, 1917 T" Ot-seeo's Father Esper Is Appointed J o Post In Detroit Church Rev years Fr. Michael 0. Esper, for flftcen head of St. Joseph's parish CO.WO have n charge of St. Joseph's Cath- been added in iniirovenients on the 11. - oHc parish in this city, it to leave St. church I I.ioi.lt1 Tn tinrlfiii'ioainQiit n liiiii ' came as property. Shortly after he The announcement whicii 'c'ame improvements were made on the lme as a caiyBie-aWrprse 10 'hr.h ,, r,.,rv ,,, nit' in urn .1 ji ins liausii an wrii a k it '.the entire city, was made yesterday years a a " htno01 nlornig at the celebration of hign was erected which has not only pro mass. He has been appointed to St vided; schooling facilities for a large eight building Boniface church, Vermont and High p!aroi.nial 8chool but which cave tnj streets in uetroit, wnere ne win De- gin new uuue ai once. ine ap- the city its fi

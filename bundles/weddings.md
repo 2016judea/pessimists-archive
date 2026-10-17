@@ -1,0 +1,5 @@
+# Weddings
+
+
+## CLIP https://www.newspapers.com/clip/32381839/the-philadelphia-inquirer/ | The Philadelphia Inquirer | Mon, Nov 11, 1985 · Page  100 | concern: Pictures of couples
+Weddings Kasinkas-Esposito Anne Gervase Kasinkas and William John Esposito were married Sept. 14 at St. Philomena Church, Lansdowne. The Rev. Michael McClcane officiated. The bride is the daughter of Mr. and Mrs. Edward Kasinkas of Lansdowne. She is a graduate of Archbishop Prendergast High School and Temple University, and is eGployed as jcomputcr programmer at Conrail. The groom is the son of Mr. and Mrs. John Esposito of Hatboro. A graduate of La Salle High School and Drexel University, he is employed as an industrial engineer at Boeing Vertol. Maureen Levy served as maid of honor. The bridesmaids were Julia Kasinkas and Mary Helen Kasinkas, sisters of the bride; Janet Kane, Maureen MacDonald, Elizabeth Nugent and Marianne Hooper. Julia Lanae Kasinkas, niece of the bride, was the flower girl. Timothy Esposito was best man for his brother. Robert Esposito, brother of the groom; Nichola

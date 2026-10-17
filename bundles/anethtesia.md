@@ -1,0 +1,5 @@
+# Anethtesia
+
+
+## CLIP https://www.newspapers.com/clip/79848608/richmond-dispatch/ | Richmond Dispatch | Fri, Mar 26, 1852 · Page  1 | concern: Credit/Money
+The Ether Controversy.—The Washington correspondent of the New York Times gives (he following as the true state of (be ether controversy at the present moment, and also the pleasing fact that it is coming to u crisis : Dr. Morton's application to Congress for a reward for the discovery and application of ether as a medical agent, was refeiied to a Se lect Committee, of which Col. Bissell was Chairman. Dr. Charles T. Jackson was the principal competitor for the reward in opposition ro Dr. Morton. Dr. proved that he had first discovered the principle upon which chloroform was first successfully applied, and had communicated it to Dr. Morton, who applied it to practical use. The Committee, after a long and patient investigation and hearing counsel on both sides, have come to the conclusion that Dr. Morton is entitled to a reward 03 the person who had first successfully used this agent. A ma

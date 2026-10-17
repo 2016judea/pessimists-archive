@@ -1,0 +1,5 @@
+# Movies/Novels
+
+
+## CLIP https://www.newspapers.com/clip/35297740/the-standard-union/ | The Standard Union | Sun, Jul 31, 1921 · Page 4 | concern: Movies impact on dime novels
+Movie Shows Blamed Tor Disappearance Of Dime Novels (By'Internatlonal J!m ttervlce.) COLUMBUS, o:, July JO. "Dare Devil Dick" and his breath-taking feats no longer" engage tne at tention of Young: America,. according to a Columbus bookseller, i "When little Johnny feels like reading a dime novel nowadays he goes to a picture show for almost the same price ana there sees things wnlcp even the old-fashioned dime novel would blush to have between Ils gay-ly-covered backs," he declared. The old "thriller." which delighted the ysulh of another age and has been the solace of auch distinguished men as ex-President Woodrow Wilson and former ex-Senator George F. Hoar, of Massachusetts, seems to have completely departed from the field of fiction, according to the same authority, A canvass of all the principal book shops of Columbus, as well as those dealing in secondhand books failed to bring to l

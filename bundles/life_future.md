@@ -1,0 +1,5 @@
+# Life/Future
+
+
+## CLIP https://www.newspapers.com/clip/36724465/the-rayne-acadian-tribune/ | The Rayne Acadian-Tribune | Sat, Apr 21, 1928 · Page 6 | concern: Living too fast
+WE ARE LIVING TOO FAST "People in this modern age are living too fast to die an old age" is the opinion of Dr. J. C. Anderson, 69 state health officer. "They're cutting down their lives an average of ten years," he said. "The men who in an earlier age would have lived beyond the seventies are passing out in the early sixties or late fifties. "This is due to the high tension un der which they work and play. "Business has speeded up. It is more cold-blooded than in the earlier days when competition was not so strong. "Today business is a hard game, ex acting its toll on man's, health. One business man is trying to out scheme the other. "In the earlier days Jhis competi tion was not as strong since there was enough business for all. The executives played the game in a more leis urely manner. "But today the business man works under a high nervous strain, fails to eat regularly and doesn't sl

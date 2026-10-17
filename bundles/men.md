@@ -1,0 +1,5 @@
+# Men
+
+
+## CLIP https://www.newspapers.com/clip/35984977/the-times/ | The Times | Thu, Oct 15, 1885 · Page  7 | concern: Vanity
+THE fANITT OF MEN. Eight Ont of Errrtf Ten Running Around with Mirror in Their Poekets. "Who buys them?" asked a reporter in a Kearney street "notion" shop, pointing to a lot of tiny pocket mirrors, with nail-cleaners, tooth-pick and comb, all complete. "I suppose you th:nk the ladies are our best customers," said the "notion" man, "but it is not so. Men, sir vain men are the pickers-up of these unconsidered trifles." "Pretty men?" inquired the reporter. The salesman grinned. "It don't matter much how they look," he said; "whether they are ape or A polios, they want a pocket mirror all the same. They retire every hour or so to some secret place to admire themselves. Talk of the vanity of woman! Indeed! It pales, sir ; it fades away into insignificance by comparison with the ad-mirat'en the majority of men have for their own mugs." "Could you mention not for publication, of course, but fo
