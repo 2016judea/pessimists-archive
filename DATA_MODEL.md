@@ -42,3 +42,14 @@ source ──< case_source >── case ──< quote
 - **A verdict is never inferred from the Archive's framing alone.** The Archive only publishes fears it thinks were wrong; record `mixed` where the fear was partly borne out (e.g. TV and attention, social media and teen girls).
 - **`fear_right` cases need a primary or authoritative source** (a regulator, a court record, a peer-reviewed retrospective), cited in `quote` or `case_source`.
 - **Every quote is verbatim** from the source page, never paraphrased into quote marks.
+
+## Learnings (beside the cases)
+| Table | Grain | Answers |
+|---|---|---|
+| `insight` | one learning: `insight_id, recorded_on, kind (vein · fear_right_today · fear_wrong_today · method), status (hypothesis · in_use · tested · shipped · dead), statement, next_test` | What do we believe, and what would test it? |
+| `insight_metric` | one number behind an insight: `name, db (demand · outreach · pessimism), sql, value, computed_on, error` | Is it still true? Every number is recomputed from its SQL on each build; a missing source gives NULL + error, never a stale value. |
+| `insight_case` | insight × case | Which historical cases back it? |
+| `learning_doc` | one written reflection (path, full text) | The prose, kept with the numbers. |
+| view `insight_full` | insight × metric | Read this first. |
+
+Source of truth: `learnings/*.json` (add a file per session). `load_learnings.py` runs at the end of `build_db.py`, or alone.
