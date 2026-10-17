@@ -74,3 +74,7 @@ SELECT a.analog, c.* FROM case_analog a JOIN cases c USING (case_id);
 for t in ["clipping", "card", "timeline", "post", "cases", "quote", "case_evidence", "case_analog"]:
     print(f"{t:14s}", con.execute(f"select count(*) from {t}").fetchone()[0])
 print(con.sql("select origin, verdict, count(*) n from cases group by all order by all"))
+
+# learnings sit beside the cases; recomputed from their SQL on every build
+import load_learnings
+load_learnings.run(con)
