@@ -11,10 +11,12 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 DBS = {"demand": os.path.expanduser("~/Desktop/demand-signals/demand.duckdb"),
        "outreach": os.path.expanduser("~/Desktop/outreach-ledger/outreach.duckdb")}
 
-def run(con=None):
+def run(con=None, learn_dir=None, dbs=None):
     own = con is None
     con = con or duckdb.connect(os.path.join(HERE, "pessimism.duckdb"))
-    for alias, path in DBS.items():
+    learn_dir = learn_dir or os.path.join(HERE, "learnings")
+    dbs = DBS if dbs is None else dbs
+    for alias, path in dbs.items():
         if os.path.exists(path):
             try:
                 con.execute(f"ATTACH '{path}' AS {alias} (READ_ONLY)")
@@ -22,13 +24,17 @@ def run(con=None):
                 print("attach failed", alias, e)
     today = datetime.date.today()
     ins, met, link = [], [], []
-    for f in sorted(glob.glob(os.path.join(HERE, "learnings", "*.json"))):
+    for f in sorted(glob.glob(os.path.join(learn_dir, "*.json"))):
         for i in json.load(open(f)):
             ins.append({k: i.get(k) for k in ["insight_id", "recorded_on", "kind", "status", "statement", "next_test"]})
             for m in i.get("metrics", []):
                 val, err = None, None
                 try:
-                    val = con.execute(m["sql"]).fetchone()[0]
+                    row = con.execute(m["sql"]).fetchone()
+                    if row is None:
+                        err = "no rows"  # a filter that matches nothing (a renamed product, an empty sector) is not a number
+                    else:
+                        val = row[0]
                 except duckdb.Error as e:
                     err = str(e).splitlines()[0]
                 met.append({"insight_id": i["insight_id"], "name": m["name"], "db": m["db"], "sql": m["sql"],
@@ -45,7 +51,7 @@ def run(con=None):
       SELECT i.insight_id, i.kind, i.status, i.statement, m.name AS metric, m.value, m.computed_on, m.error
       FROM insight i LEFT JOIN insight_metric m USING (insight_id)""")
     missing = con.execute("SELECT count(*) FROM insight_case WHERE case_id NOT IN (SELECT case_id FROM cases)").fetchone()[0]
-    for alias in DBS:
+    for alias in dbs:
         try: con.execute(f"DETACH {alias}")
         except duckdb.Error: pass
     print("insights", len(ins), "| metrics", len(met), "| errors", sum(1 for m in met if m["error"]), "| unlinked case ids", missing)
