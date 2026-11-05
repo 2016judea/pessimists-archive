@@ -8,8 +8,8 @@ import glob, json, os, datetime
 import duckdb, pandas as pd
 
 HERE = os.path.dirname(os.path.abspath(__file__))
-DBS = {"demand": os.path.expanduser("~/Desktop/demand-signals/demand.duckdb"),
-       "outreach": os.path.expanduser("~/Desktop/outreach-ledger/outreach.duckdb")}
+DBS = {"demand": os.path.expanduser("~/Desktop/workspace/demand-signals/demand.duckdb"),
+       "outreach": os.path.expanduser("~/Desktop/workspace/outreach-ledger/outreach.duckdb")}
 
 def run(con=None, learn_dir=None, dbs=None):
     own = con is None
